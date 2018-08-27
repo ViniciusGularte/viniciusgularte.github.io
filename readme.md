@@ -1,3 +1,3 @@
 # In Progress
 
-<img src='src/imgs/readme.gif'/>
+<img src='src/imgs/programming.gif'/>
