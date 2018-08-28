@@ -1,0 +1,32 @@
+#education {
+  margin-top: 3%;
+  background-image: radial-gradient(circle, #ffffff, #fbfbfc, #f7f6f9, #f3f2f7, #efeef4); }
+
+.education-img {
+  width: 90px;
+  border-radius: 20%;
+  margin-left: 10px;
+  margin-top: 10px; }
+
+.block {
+  margin-top: 3%;
+  -webkit-box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64);
+  -moz-box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64);
+  box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64); }
+
+.education-title {
+  margin-top: 2%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.2px;
+  word-spacing: 1px;
+  border-bottom: 2px solid #121555;
+  padding-bottom: 4px;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none; }
+
+.education-subtitle {
+  margin-top: 2%; }
+
+/*# sourceMappingURL=education.css.map */
