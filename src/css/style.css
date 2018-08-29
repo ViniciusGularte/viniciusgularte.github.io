@@ -116,7 +116,8 @@
     -moz-transform: translateX(-1000px);
     transform: translateX(-1000px); } }
 #education {
-  margin-top: 3%;
+  padding-top: 3%;
+  padding-bottom: 3%;
   background-image: radial-gradient(circle, #ffffff, #fbfbfc, #f7f6f9, #f3f2f7, #efeef4); }
 
 .education-img {
@@ -145,5 +146,23 @@
 
 .education-subtitle {
   margin-top: 2%; }
+
+#skills {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-image: linear-gradient(to right top, #051937, #002265, #002993, #0029c1, #121aeb); }
+
+.skills-title {
+  color: white;
+  margin-top: 2%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.2px;
+  word-spacing: 1px;
+  border-bottom: 2px solid #a8929c;
+  padding-bottom: 4px;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none; }
 
 /*# sourceMappingURL=style.css.map */
