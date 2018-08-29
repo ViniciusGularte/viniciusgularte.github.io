@@ -123,7 +123,6 @@
 .education-img {
   width: 90px;
   border-radius: 20%;
-  margin-left: 10px;
   margin-top: 10px; }
 
 .block {
@@ -155,6 +154,7 @@
 .skills-title {
   color: white;
   margin-top: 2%;
+  margin-bottom: 2%;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 24px;
   letter-spacing: -0.2px;
@@ -164,5 +164,10 @@
   font-style: normal;
   font-variant: normal;
   text-transform: none; }
+
+.skills-icons {
+  margin-left: 2%;
+  margin-right: 2%;
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
