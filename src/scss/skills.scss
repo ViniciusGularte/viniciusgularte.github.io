@@ -22,4 +22,40 @@
   margin-left: 2%;
   margin-right: 2%;
   color: white;
+  margin-bottom: 2%;
+}
+.skills-imgs{
+  width: 109px;
+
+}
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[data-title]:after {
+    content: attr(data-title);
+    position: absolute;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    bottom: 1.6em;
+    left: 30%;
+    padding: 4px 4px 4px 8px;
+    color: #222;
+    border: 2px solid rgb(0, 37, 170);
+    background-color: white;
+    white-space: pre;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 4px #222;
+    -webkit-box-shadow: 0px 0px 4px #222;
+    box-shadow: 0px 0px 4px #222;
+    opacity: 0;
+    z-index: 99999;
+    visibility: hidden;
+}
+[data-title] {
+    position: relative;
 }
