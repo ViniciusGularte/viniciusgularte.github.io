@@ -250,4 +250,8 @@ section {
 #footer {
   background-image: linear-gradient(to right top, #0d0b1e, #0b081b, #080519, #050316, #020013); }
 
+.footer-icons {
+  margin-right: 3%;
+  margin-left: 3%; }
+
 /*# sourceMappingURL=style.css.map */
