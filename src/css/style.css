@@ -231,8 +231,6 @@ section {
   position: relative; }
 
 #projects {
-  padding-top: 3%;
-  padding-bottom: 3%;
   background-image: linear-gradient(to right top, #ffffff, #eeeff0, #dcdfdf, #cccfcd, #bebfbb); }
 
 .projects-title {
@@ -246,6 +244,19 @@ section {
   font-style: normal;
   font-variant: normal;
   text-transform: none; }
+
+.block-project {
+  -webkit-box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64);
+  -moz-box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64);
+  box-shadow: -3px 2px 72px -25px rgba(23, 21, 23, 0.64); }
+
+.title-project {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-image: linear-gradient(to right top, #0d0b1e, #0b081b, #080519, #050316, #020013);
+  font-weight: bold;
+  font-size: 20px;
+  color: white; }
 
 #footer {
   background-image: linear-gradient(to right top, #0d0b1e, #0b081b, #080519, #050316, #020013); }
