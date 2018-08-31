@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css?family=Roboto');
 #header{
   color: white;
   padding-top: 10%;
@@ -7,6 +8,19 @@
 #perfil-img{
   width: 160px;
   border-radius: 50%;
+}
+.btn-header{
+  font-weight: bold;
+  color: white;
+	background-color: rgb(13, 106, 167);
+	border-bottom: 5px solid rgb(13, 106, 167);
+	text-shadow: 0px -2px rgb(74, 57, 117);
+}
+.btn-header:active
+{
+	transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+	border-bottom: 1px solid rgb(13, 106, 167);
 }
 .header-name{
   margin-top: 3%;
