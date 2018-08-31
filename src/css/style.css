@@ -5,6 +5,10 @@
   padding-bottom: 10%;
   background-image: linear-gradient(to right top, #1047b5, #1c3688, #1c275d, #161836, #070513); }
 
+section {
+  padding-top: 3%;
+  padding-bottom: 3%; }
+
 #perfil-img {
   width: 160px;
   border-radius: 50%; }
@@ -129,8 +133,6 @@
     -moz-transform: translateX(-1000px);
     transform: translateX(-1000px); } }
 #education {
-  padding-top: 3%;
-  padding-bottom: 3%;
   background-image: radial-gradient(circle, #ffffff, #fbfbfc, #f7f6f9, #f3f2f7, #efeef4); }
 
 .education-img {
@@ -164,12 +166,10 @@
 
 .education-text {
   font-style: italic;
-  font-size: 14px;
+  font-size: 16px;
   font-family: 'Roboto', sans-serif; }
 
 #skills {
-  padding-top: 3%;
-  padding-bottom: 3%;
   background-image: linear-gradient(to right top, #051937, #002265, #002993, #0029c1, #121aeb); }
 
 .skills-title {
@@ -229,5 +229,25 @@
 
 [data-title] {
   position: relative; }
+
+#projects {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  background-image: linear-gradient(to right top, #ffffff, #eeeff0, #dcdfdf, #cccfcd, #bebfbb); }
+
+.projects-title {
+  margin-top: 2%;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.2px;
+  word-spacing: 1px;
+  border-bottom: 2px solid #121555;
+  padding-bottom: 4px;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none; }
+
+#footer {
+  background-image: linear-gradient(to right top, #0d0b1e, #0b081b, #080519, #050316, #020013); }
 
 /*# sourceMappingURL=style.css.map */
