@@ -28,6 +28,8 @@
   color: white; }
 
 .img-project {
+  width: 400px;
+  height: 300px;
   opacity: 1;
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out; }

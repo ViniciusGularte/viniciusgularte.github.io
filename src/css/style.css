@@ -192,6 +192,20 @@ section {
   color: white;
   margin-bottom: 2%; }
 
+.skills-icons:hover {
+  -webkit-animation: skills 2s linear 0s infinite normal;
+  animation: skills 2s linear 0s infinite normal; }
+
+@-webkit-keyframes skills {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); }
+  20% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px); }
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px); } }
 .skills-imgs {
   width: 109px; }
 
@@ -260,6 +274,8 @@ section {
   color: white; }
 
 .img-project {
+  width: 400px;
+  height: 300px;
   opacity: 1;
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out; }
@@ -291,5 +307,32 @@ section {
   margin-right: 3%;
   margin-left: 3%;
   margin-top: 3%; }
+
+.footer-icons:hover {
+  -webkit-animation: footer-icons 2s ease 0s infinite normal;
+  animation: footer-icons 2s ease 0s infinite normal; }
+
+@-webkit-keyframes footer-icons {
+  0% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); }
+  20% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); }
+  40% {
+    -webkit-transform: translateY(-30px);
+    transform: translateY(-30px); }
+  50% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); }
+  60% {
+    -webkit-transform: translateY(-15px);
+    transform: translateY(-15px); }
+  80% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); }
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0); } }
 
 /*# sourceMappingURL=style.css.map */
