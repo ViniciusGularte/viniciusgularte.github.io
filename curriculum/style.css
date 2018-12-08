@@ -1,13 +1,30 @@
 .container{
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 25% 75%;
 }
 .container__item{
-
+  text-align: center;
+  padding: 20px 20px 20px 20px;
 }
 .item--white{
   background-color: aliceblue;
 }
 .item--dark{
   background-color: #333333;
+}
+.img-perfil{
+  border-radius: 10px;
+  width: 170px;
+  height: 170px;
+}
+.title-perfil--primary{
+  color: white;
+  font-family: 'Bungee', cursive;
+}
+.title-perfil--secondary{
+  font-family: sans-serif;
+  color: white;
+}
+.title-profile{
+
 }
