@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
+.container__item{
+
+}
+.item--white{
+  background-color: aliceblue;
+}
+.item--dark{
+  background-color: #333333;
+}
