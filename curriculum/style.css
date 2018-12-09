@@ -39,6 +39,10 @@
 .profile--skils{
  font-family: 'Quicksand', sans-serif;
 }
+.profile--skils .itens{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
 
 .progressbar {
   border: 2px solid white;
@@ -48,6 +52,20 @@
 
 .progressbar>div {
   background-color: white;
-  width: 40%;
   height: 20px;
+}
+.progressbar--html{
+  width: 80%;
+}
+.progressbar--css{
+  width: 70%;
+}
+.progressbar--javascript{
+  width: 73%;
+}
+.progressbar--node{
+  width: 60%;
+}
+.progressbar--php{
+  width: 60%;
 }
