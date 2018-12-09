@@ -39,3 +39,15 @@
 .profile--skils{
  font-family: 'Quicksand', sans-serif;
 }
+
+.progressbar {
+  border: 2px solid white;
+  background-color: #333333;
+  padding: 3px;
+}
+
+.progressbar>div {
+  background-color: white;
+  width: 40%;
+  height: 20px;
+}
