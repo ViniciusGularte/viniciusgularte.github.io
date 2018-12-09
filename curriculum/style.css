@@ -69,3 +69,8 @@
 .progressbar--php{
   width: 60%;
 }
+.work-experience{
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+  margin-left: 5%;
+}
