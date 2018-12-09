@@ -1,0 +1,4 @@
+#welcome::before { content: 'welcome to website!' }
+#description::before { content: 'The information presented here is for the purpose of validating a test.' }
+#translate::before { content: 'Translate' }
+#rights::before { content: 'All rights reserved' }

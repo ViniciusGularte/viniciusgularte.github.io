@@ -1,3 +1,4 @@
+
 .container{
     display: grid;
     grid-template-columns: 25% 75%;
@@ -7,9 +8,11 @@
   padding: 20px 20px 20px 20px;
 }
 .item--white{
+  color:#333333;
   background-color: aliceblue;
 }
 .item--dark{
+  color:white;
   background-color: #333333;
 }
 .img-perfil{
@@ -18,13 +21,21 @@
   height: 170px;
 }
 .title-perfil--primary{
-  color: white;
   font-family: 'Bungee', cursive;
 }
 .title-perfil--secondary{
   font-family: sans-serif;
-  color: white;
 }
-.title-profile{
-
+.line-break{
+  margin-bottom: 20px;
+  width: 50%;
+}
+.profile--description {
+  font-family: 'Quicksand', sans-serif;
+}
+.profile--contact{
+  font-family: 'Quicksand', sans-serif;
+}
+.profile--skils{
+ font-family: 'Quicksand', sans-serif;
 }
