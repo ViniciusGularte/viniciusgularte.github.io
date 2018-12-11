@@ -105,11 +105,28 @@ html,body{
   font-family: 'Quicksand', sans-serif;
   text-align: left;
   margin-left: 5%;
+  margin-top: 5%;
 }
 .work-experience--title{
   font-weight: bold;
-  font-family:;
+  font-family:inherit;
 }
 .work-experience--content{
+  margin-bottom: 4%;
+}
+.work-experience--achievements{
+  
+}
+.education{
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.education--title{
+  font-weight: bold;
+  font-family:inherit;
+}
+.education--content{
   margin-bottom: 4%;
 }
