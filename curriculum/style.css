@@ -115,7 +115,7 @@ html,body{
   margin-bottom: 4%;
 }
 .work-experience--achievements{
-  
+
 }
 .education{
   font-family: 'Quicksand', sans-serif;
@@ -129,4 +129,13 @@ html,body{
 }
 .education--content{
   margin-bottom: 4%;
+}
+.courses{
+  font-family: 'Quicksand', sans-serif;
+  text-align: left;
+  margin-top: 5%;
+  display: flex;
+}
+.courses--content{
+
 }
