@@ -110,6 +110,9 @@ html,body{
 .progressbar--git{
   width: 78%;
 }
+.progressbar--database{
+  width: 75%;
+}
 .work-experience{
   font-family: 'Quicksand', sans-serif;
   text-align: left;
@@ -147,4 +150,9 @@ html,body{
 }
 .courses--content{
 
+}
+.qrcode{
+  margin-top: 13%;
+  width: 200px;
+  height: 200px;
 }
