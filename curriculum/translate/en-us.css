@@ -1,1 +1,15 @@
-#welcome::before { content: 'welcome to website!' }
+#title_developer::before{
+   content: 'WEB DEVELOPER';
+}
+#profile::before{
+  content: 'PROFILE';
+}
+#profile_description::before{
+  content: "I'm a 22-year-old web developer from Rio Grande Do Sul, involved in web development since 2014. ";
+}
+#skills::before{
+  content: "SKILLS";
+}
+#contact::before{
+  content: "CONTACT";
+}

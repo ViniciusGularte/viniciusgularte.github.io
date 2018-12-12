@@ -1,1 +1,12 @@
-#welcome::before { content: 'Bem vindo ao site!' }
+#title_developer::before{
+   content: 'DESENVOLVEDOR WEB';
+}
+#profile::before{
+  content: 'PERFIL';
+}
+#profile_description::before{
+  content: "Eu sou um desenvolvedor web de 22 anos do Rio Grande do Sul, envolvido no desenvolvimento web desde 2014.";
+}
+#skills::before{
+  content: "HABILIDADES";
+}

@@ -10,13 +10,11 @@
     node.media = 'none';
   }
   function enablePt () {
-    console.log('pt');
     enableStylesheet(pt);
     disableStylesheet(en);
   }
 
   function enableEn () {
-    console.log('en');
     enableStylesheet(en);
     disableStylesheet(pt);
   }
