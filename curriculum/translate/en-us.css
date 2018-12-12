@@ -1,3 +1,6 @@
+#print::before{
+  content: "Print Out";
+}
 #title_developer::before{
    content: 'WEB DEVELOPER';
 }
@@ -12,4 +15,13 @@
 }
 #contact::before{
   content: "CONTACT";
+}
+#work_experience::before{
+  content: "WORK EXPERIENCE";
+}
+#facilconsulta_title::before{
+  content: "";
+}
+#facilconsulta::before{
+  content: "Responsible for bug fixes, system optimization and design improvements with the team.";
 }

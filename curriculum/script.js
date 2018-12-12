@@ -18,7 +18,13 @@
     enableStylesheet(en);
     disableStylesheet(pt);
   }
-
+  function printCurriculum(){
+    if(pt.media ==='none'){
+        console.log("English curriculum");
+        return;
+    }
+  }
 
   document.querySelector("#pt").onclick = enablePt;
   document.querySelector("#en").onclick = enableEn;
+  document.querySelector("#print").onclick = printCurriculum;

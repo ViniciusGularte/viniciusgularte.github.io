@@ -1,3 +1,6 @@
+#print::before{
+  content: 'Imprimir';
+}
 #title_developer::before{
    content: 'DESENVOLVEDOR WEB';
 }
@@ -9,4 +12,16 @@
 }
 #skills::before{
   content: "HABILIDADES";
+}
+#contact::before{
+  content: "CONTATO";
+}
+#work_experience::before{
+  content: "EXPERIÊNCIA";
+}
+#facilconsulta_title::before{
+  content: "Desenvolvedor Web Junior - Facil Consulta (2018-2018)";
+}
+#facilconsulta::before{
+  content: "Responsavel por correção de bugs, otimização do sistema e melhorias no design junto a equipe.";
 }
