@@ -30,4 +30,5 @@
 }
 #embrapaLab::before{
  content:"Participei junto ao time na criação de novas ferramentas para pesquisadores e produtores da região utilizarem.\A Na nossa nova API em desenvolvimento, criei o ambiente para testes da mesma.Um grande desafio foi lidar com os sistemas legados de mais de dez anos, totalmente monoliticos, para isso utilizei melhores praticas para encapsular tudo possivel em funções, eu usei design patterns como builder para desmembrar funções grandes em funções menores.";
+ white-space: pre-wrap;
 }  
