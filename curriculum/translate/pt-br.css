@@ -25,3 +25,6 @@
 #facilconsulta::before{
   content: "Responsavel por correção de bugs, otimização do sistema e melhorias no design junto a equipe.";
 }
+.achievements::before{
+  content: "Conquistas";
+}

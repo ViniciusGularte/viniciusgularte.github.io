@@ -20,8 +20,11 @@
   content: "WORK EXPERIENCE";
 }
 #facilconsulta_title::before{
-  content: "";
+  content: "Junior Web Developer - Facil Consulta (2018-2018)";
 }
 #facilconsulta::before{
   content: "Responsible for bug fixes, system optimization and design improvements with the team.";
+}
+.achievements::before{
+  content: "Achievements";
 }
