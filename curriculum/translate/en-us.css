@@ -25,6 +25,12 @@
 #facilconsulta::before{
   content: "Responsible for bug fixes, system optimization and design improvements with the team.";
 }
+#embrapaLab::before{
+ content:`I joined the team in creating new tools for researchers and producers in the region to use.
+          In our new API in development, I created the environment for testing it.
+          A great challenge was to deal with the legacy systems of more than ten years, totally monolithic, so I used best practices to encapsulate everything possible in functions, I used design patterns like builder to dismember large functions in small functions. 
+`;
+}  
 .achievements::before{
   content: "Achievements";
 }
