@@ -31,4 +31,28 @@
 #embrapaLab::before{
  content:"Participei junto ao time na criação de novas ferramentas para pesquisadores e produtores da região utilizarem.\A Na nossa nova API em desenvolvimento, criei o ambiente para testes da mesma.Um grande desafio foi lidar com os sistemas legados de mais de dez anos, totalmente monoliticos, para isso utilizei melhores praticas para encapsular tudo possivel em funções, eu usei design patterns como builder para desmembrar funções grandes em funções menores.";
  white-space: pre-wrap;
-}  
+}
+#embrapa_li_1::before{
+  content: "Implantei a primeira estrutura de testes da Embrapa Pecuária Sul.";
+}
+#embrapa_li_2::before{
+  content: "Eu criei a estrutura para sistemas mais antigos para suportar dispositivos móveis.";
+}
+#embrapa_li_3::before{
+  content: "Desenvolvi novas ferramentas para análise genética com JavaScript e PHP.";
+}
+#embrapa_li_4::before{
+  content: "";
+}
+#facilconsulta_li_1::before{
+  content: "Aprendi mais sobre versionamento de código e controle de tarefas.";
+}
+#facilconsulta_li_2::before{
+  content: "Eu criei telas responsáveis por rodar em desktop e mobile.";
+}
+#facilconsulta_li_3::before{
+  content: "Eu otimizei o carregamento de páginas do sistema em 60%.";
+}
+#facilconsulta_li_4::before{
+  content: "Eu tive a oportunidade de trabalhar com uma equipe totalmente organizada seguindo a metodologia Scrum.";
+}

@@ -25,10 +25,34 @@
 #facilconsulta::before{
   content: "Responsible for bug fixes, system optimization and design improvements with the team.";
 }
+.achievements::before{
+  content: "Achievements";
+}
 #embrapaLab::before{
  content:"I joined the team in creating new tools for researchers and producers in the region to use.\A In our new API in development, I created the environment for testing it.A great challenge was to deal with the legacy systems of more than ten years, totally monolithic, so I used best practices to encapsulate everything possible in functions, I used design patterns like builder to dismember large functions in small functions.";
  white-space: pre-wrap;
-}  
-.achievements::before{
-  content: "Achievements";
+}
+#embrapa_li_1::before{
+  content: "Implemented the first test structure of the Embrapa Pecuária Sul.";
+}
+#embrapa_li_2::before{
+  content: "I created the structure for older systems to support mobile.";
+}
+#embrapa_li_3::before{
+  content: "Developed new tools for genetic analysis with JavaScript and PHP.";
+}
+#embrapa_li_4::before{
+  content: "";
+}
+#facilconsulta_li_1::before{
+  content: "I learned more about code versioning and task control.";
+}
+#facilconsulta_li_2::before{
+  content: "I have created screens responsible for running both desktop and mobile.";
+}
+#facilconsulta_li_3::before{
+  content: "I optimized the loading of system pages by 60%.";
+}
+#facilconsulta_li_4::before{
+  content: "I had the opportunity to work with a totally organized team following the scrum methodology.";
 }
