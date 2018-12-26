@@ -61,14 +61,14 @@
   white-space: pre-wrap;
 } 
 #embrapabol_li_1::before{
-  content:"";
+  content:" I've created ways to capture thousands of Embrapa search data using Google Analytics";
 }
 #embrapabol_li_2::before{
-  content:"";
+  content:"Created new systems using SOLID principles to develop better architectures";
 }
 #embrapabol_li_3::before{
-  content:"";
+  content:"I improved my communication skills with the team.";
 }
 #embrapabol_li_4::before{
-  content:"";
+  content:"I totally recreated a legacy system in an object-oriented system with an MVC layer.";
 }
