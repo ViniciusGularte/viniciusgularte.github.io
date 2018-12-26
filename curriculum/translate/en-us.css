@@ -72,3 +72,6 @@
 #embrapabol_li_4::before{
   content:"I totally recreated a legacy system in an object-oriented system with an MVC layer.";
 }
+#courses::before{
+  content:"Courses and certificates";
+}
