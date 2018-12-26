@@ -72,3 +72,6 @@
 #embrapabol_li_4::before{
   content:"Refatorei totalmente um sistema legado em um sistema Orientado a objetos com uma camada MVC.";
 }
+#courses::before{
+  content:"Cursos e certificados";
+}
