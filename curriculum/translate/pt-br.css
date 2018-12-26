@@ -56,3 +56,19 @@
 #facilconsulta_li_4::before{
   content: "Eu tive a oportunidade de trabalhar com uma equipe totalmente organizada seguindo a metodologia Scrum.";
 }
+#embrapabol::before{
+  content:"";
+  white-space: pre-wrap;
+} 
+#embrapabol_li_1::before{
+  content:"";
+}
+#embrapabol_li_2::before{
+  content:"";
+}
+#embrapabol_li_3::before{
+  content:"";
+}
+#embrapabol_li_4::before{
+  content:"";
+}
