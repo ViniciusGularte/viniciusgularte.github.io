@@ -56,3 +56,19 @@
 #facilconsulta_li_4::before{
   content: "I had the opportunity to work with a totally organized team following the scrum methodology.";
 }
+#embrapabol::before{
+  content:"I had the opportunity to work with incredible people here, I was responsible for developing new methods of extracting data from research by Embrapa.\A I also recreated a system from scratch using the MVC layer with PHP and javascript to make requests, I had the opportunity to improve the quality of my work here and started my life as developer, was a very good experience.";
+  white-space: pre-wrap;
+} 
+#embrapabol_li_1::before{
+  content:"";
+}
+#embrapabol_li_2::before{
+  content:"";
+}
+#embrapabol_li_3::before{
+  content:"";
+}
+#embrapabol_li_4::before{
+  content:"";
+}
