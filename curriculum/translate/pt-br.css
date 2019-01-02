@@ -56,3 +56,22 @@
 #facilconsulta_li_4::before{
   content: "Eu tive a oportunidade de trabalhar com uma equipe totalmente organizada seguindo a metodologia Scrum.";
 }
+#embrapabol::before{
+  content:"Tive a oportunidade de trabalhar com pessoas incríveis aqui, fui responsável pelo desenvolvimento de novos métodos de extração de dados da pesquisa da Embrapa.\A Eu também recriei um sistema do zero usando a camada MVC com PHP e javascript para fazer requests, tive a oportunidade de melhorar a qualidade do meu trabalho aqui e comecei minha vida como desenvolvedor, foi uma experiência muito boa";
+  white-space: pre-wrap;
+} 
+#embrapabol_li_1::before{
+  content:"Criei formas de captar milhares de dados de pesquisas da Embrapa usando Google Analytics";
+}
+#embrapabol_li_2::before{
+  content:"Criei novos sistemas utilizando principios SOLID para desenvolver melhores arquiteturas.";
+}
+#embrapabol_li_3::before{
+  content:"Melhorei minhas habilidades de comunicação com o time.";
+}
+#embrapabol_li_4::before{
+  content:"Refatorei totalmente um sistema legado em um sistema Orientado a objetos com uma camada MVC.";
+}
+#courses::before{
+  content:"Cursos e certificados";
+}
