@@ -75,6 +75,9 @@
 #courses::before{
   content:"Cursos e certificados";
 }
+#educacao::before{
+  content:"Educação";
+}
 #uninter_pos_titulo::before{
   content:"Pós Graduação em engenharia de software para dispositivos móveis - Uninter (2018-Current)";
 }
