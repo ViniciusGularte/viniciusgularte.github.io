@@ -59,7 +59,7 @@
 #embrapabol::before{
   content:"Tive a oportunidade de trabalhar com pessoas incríveis aqui, fui responsável pelo desenvolvimento de novos métodos de extração de dados da pesquisa da Embrapa.\A Eu também recriei um sistema do zero usando a camada MVC com PHP e javascript para fazer requests, tive a oportunidade de melhorar a qualidade do meu trabalho aqui e comecei minha vida como desenvolvedor, foi uma experiência muito boa";
   white-space: pre-wrap;
-} 
+}
 #embrapabol_li_1::before{
   content:"Criei formas de captar milhares de dados de pesquisas da Embrapa usando Google Analytics";
 }
@@ -74,4 +74,13 @@
 }
 #courses::before{
   content:"Cursos e certificados";
+}
+#uninter_pos_titulo::before{
+  content:"Pós Graduação em engenharia de software para dispositivos móveis - Uninter (2018-Current)";
+}
+#uninter_titulo::before{
+  content:"Graduação em analise e desenvolvimento de sistemas - Uninter (2016-2018)";
+}
+#ifsul_titulo::before{
+  content:"Técnico em informatica voltado a internet- Ifsul (2014-2016)"
 }
