@@ -87,3 +87,9 @@
 #ifsul_titulo::before{
   content:"Técnico em informatica voltado a internet- Ifsul (2014-2016)"
 }
+#embrapaLab_titulo::before{
+  content:"Desenvolvedor Web Junior - Embrapa Pecuária Sul(2018-Atual)"
+}
+#embrapabol_titulo::before{
+  content:" Bolsista de iniciação ciêntifica - Embrapa Pecuária Sul (2017-2018) "
+}
