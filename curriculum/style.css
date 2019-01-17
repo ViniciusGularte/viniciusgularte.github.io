@@ -25,6 +25,18 @@ html,body{
     display: grid;
     grid-template-columns: 25% 75%;
 }
+@media (max-width: 600px){
+  .container{
+    grid-template-columns: 100%;
+  }
+  .container__header__botoes{
+    display: grid;
+  }
+  .btn-header--print{
+    margin-right: 0;
+  }
+
+}
 .container__item{
   text-align: center;
   padding: 20px 20px 20px 20px;
