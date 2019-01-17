@@ -1,3 +1,4 @@
+  import {download_file} from './module.js';
   const en = document.querySelector('#en-us');
   const pt = document.querySelector('#pt-br');
   enableStylesheet(en);
@@ -16,10 +17,16 @@
     disableStylesheet(pt);
   }
   function printCurriculum(){
+    let portfolio = ''
     if(pt.media ==='none'){
-        console.log("English curriculum");
-        return;
+        portfolio = 'curriculum.pdf'
+        download_file(`./portfolios/${portfolio}`, portfolio});
     }
+    else{
+      portfolio = 'curriculo.pdf'
+      download_file(`./portfolios/${portfolio}`, portfolio});
+    }
+
   }
 
   document.querySelector("#pt").onclick = enablePt;
