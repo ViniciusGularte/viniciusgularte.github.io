@@ -20,13 +20,12 @@
     let portfolio = ''
     if(pt.media ==='none'){
         portfolio = 'curriculum.pdf'
-        download_file(`./portfolios/${portfolio}`, portfolio});
+        download_file(`./portfolios/${portfolio}`, portfolio);
     }
     else{
       portfolio = 'curriculo.pdf'
-      download_file(`./portfolios/${portfolio}`, portfolio});
+      download_file(`./portfolios/${portfolio}`, portfolio);
     }
-
   }
 
   document.querySelector("#pt").onclick = enablePt;
