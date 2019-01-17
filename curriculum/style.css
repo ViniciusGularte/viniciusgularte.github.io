@@ -113,6 +113,9 @@ html,body{
 .progressbar--database{
   width: 75%;
 }
+.progressbar--linux{
+  width: 73%;
+}
 .work-experience{
   font-family: 'Quicksand', sans-serif;
   text-align: left;
