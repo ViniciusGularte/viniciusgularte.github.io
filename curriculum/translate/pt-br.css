@@ -29,7 +29,7 @@
   content: "Conquistas";
 }
 #embrapaLab::before{
- content:"Participei junto ao time na criação de novas ferramentas para pesquisadores e produtores da região utilizarem.\A Na nossa nova API em desenvolvimento, criei o ambiente para testes da mesma.Um grande desafio foi lidar com os sistemas legados de mais de dez anos, totalmente monoliticos, para isso utilizei melhores praticas para encapsular tudo possivel em funções, eu usei design patterns como builder para desmembrar funções grandes em funções menores.";
+ content:"Participei junto ao time na criação de novas ferramentas para pesquisadores e produtores da região utilizarem.";
  white-space: pre-wrap;
 }
 #embrapa_li_1::before{
@@ -39,7 +39,7 @@
   content: "Eu criei a estrutura para sistemas mais antigos para suportar dispositivos móveis.";
 }
 #embrapa_li_3::before{
-  content: "Desenvolvi novas ferramentas para análise genética com JavaScript e PHP.";
+  content: "Desenvolvi novas ferramentas para análise genética, incluindo Pwas.";
 }
 #embrapa_li_4::before{
   content: "";

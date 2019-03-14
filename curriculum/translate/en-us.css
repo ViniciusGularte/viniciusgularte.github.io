@@ -29,7 +29,7 @@
   content: "Achievements";
 }
 #embrapaLab::before{
- content:"I joined the team in creating new tools for researchers and producers in the region to use.\A In our new API in development, I created the environment for testing it.A great challenge was to deal with the legacy systems of more than ten years, totally monolithic, so I used best practices to encapsulate everything possible in functions, I used design patterns like builder to dismember large functions in small functions.";
+ content:"I joined the team in creating new tools for researchers and producers in the region to use.";
  white-space: pre-wrap;
 }
 #embrapa_li_1::before{
@@ -39,7 +39,7 @@
   content: "I created the structure for older systems to support mobile.";
 }
 #embrapa_li_3::before{
-  content: "Developed new tools for genetic analysis with JavaScript and PHP.";
+  content: "Developed new tools for genetic analysis, including PWAS.";
 }
 #embrapa_li_4::before{
   content: "";
